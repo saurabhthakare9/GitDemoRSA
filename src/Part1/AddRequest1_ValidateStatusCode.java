@@ -39,6 +39,9 @@ public class AddRequest1_ValidateStatusCode {
 		System.out.println("This changes done on line 1");
 		System.out.println("This changes done on line 2");
 		System.out.println("This changes done on line 3");
+		System.out.println("This changes done on line 4");
+		System.out.println("This changes done on line 5");
+		System.out.println("This changes done on line 6");
 		//In general, status code is 200 but for mock we need to take 201 as we are creating new resourse
 	}
 
